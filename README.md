@@ -1,5 +1,5 @@
 # Documentation for the Stomatal Slope Project
-*project in the Ecoclimate Lab at the University of Washington*
+#### project in the Ecoclimate Lab at the University of Washington
 
 *Amy Liu, Claire Zarakas, and Abby Swann*
 
